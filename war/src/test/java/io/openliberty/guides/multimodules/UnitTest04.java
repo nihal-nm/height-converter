@@ -5,7 +5,7 @@ import org.junit.Ignore;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 
-public class UnitTest01 {
+public class UnitTest04 {
 
     @Test
     public void passTest() {
