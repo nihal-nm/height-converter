@@ -11,7 +11,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <!-- end::parent[] -->
-
+<!-- dummy commit -->
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.openliberty.guides</groupId>
